@@ -1,0 +1,93 @@
+[
+  {
+    "description": "    Testing the feature of searching for a heero",
+    "keyword": "Feature",
+    "name": "Searching a hero",
+    "line": 1,
+    "id": "searching-a-hero",
+    "tags": [],
+    "uri": "Searching.feature",
+    "elements": [
+      {
+        "id": "searching-a-hero;as-a-toh-user-i-want-to-search-for-a-hero",
+        "keyword": "Scenario",
+        "line": 12,
+        "name": "As a toh user I want to search for a hero",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I am on landing page",
+            "result": {
+              "status": "passed",
+              "duration": 143000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I search for a \"Celeritas\"",
+            "result": {
+              "status": "passed",
+              "duration": 1085000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "the \"Celeritas\" details will show",
+            "result": {
+              "status": "passed",
+              "duration": 467000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "searching-a-hero;as-a-toh-user-i-want-to-search-for-a-hero",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "As a toh user I want to search for a hero",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "I am on landing page",
+            "result": {
+              "status": "passed",
+              "duration": 136000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "I search for a \"Magneta\"",
+            "result": {
+              "status": "passed",
+              "duration": 1047000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "the \"Magneta\" details will show",
+            "result": {
+              "status": "passed",
+              "duration": 472000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -23,7 +23,7 @@
             "name": "the user is on the landing page",
             "result": {
               "status": "passed",
-              "duration": 415000000
+              "duration": 522000000
             }
           },
           {
