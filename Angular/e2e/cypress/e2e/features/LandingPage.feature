@@ -7,3 +7,4 @@ Feature: LandingPage Functionality
 
     Scenario: As a toh user, I want to navigate to landingpage in order to see the dashboard
         Then the user shall see the employee dashboard
+        
