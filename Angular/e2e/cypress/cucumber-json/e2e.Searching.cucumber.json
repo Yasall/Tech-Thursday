@@ -23,7 +23,7 @@
             "name": "I am on landing page",
             "result": {
               "status": "passed",
-              "duration": 583000000
+              "duration": 450000000
             }
           },
           {
@@ -33,7 +33,7 @@
             "name": "I search for a \"Celeritas\"",
             "result": {
               "status": "passed",
-              "duration": 1091000000
+              "duration": 1089000000
             }
           },
           {
@@ -43,7 +43,7 @@
             "name": "the \"Celeritas\" details will show",
             "result": {
               "status": "passed",
-              "duration": 462000000
+              "duration": 450000000
             }
           }
         ]
@@ -63,7 +63,7 @@
             "name": "I am on landing page",
             "result": {
               "status": "passed",
-              "duration": 160000000
+              "duration": 137000000
             }
           },
           {
@@ -73,7 +73,7 @@
             "name": "I search for a \"Magneta\"",
             "result": {
               "status": "passed",
-              "duration": 1060000000
+              "duration": 1047000000
             }
           },
           {
@@ -83,7 +83,7 @@
             "name": "the \"Magneta\" details will show",
             "result": {
               "status": "passed",
-              "duration": 452000000
+              "duration": 447000000
             }
           }
         ]
