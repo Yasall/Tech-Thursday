@@ -27,6 +27,11 @@ export class CommonObjects {
     return "//button[text()='save']";
   };
 
+  NewHero = (): string => {
+    return "//input[@id='new-hero']";
+  };
+
+  
   ExecuteSearch() {
     this.ClickButtonByXpath(this.HeroSearchFirstItem());
   }
